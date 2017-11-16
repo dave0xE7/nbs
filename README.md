@@ -1,0 +1,2 @@
+# nbs
+nice bash
